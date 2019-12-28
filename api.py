@@ -1,7 +1,7 @@
 #  Usage:
 #    import genius
 #    api = genius.Genius('QPBKB7CfINwBMHA1dlbQ6u8F15SJIWHlz3eL9z9ExKDpH1tRDRbr7HKLLVbNe4y_')
-#    artist = api.search_artist('Andy Shauf', max_songs=5)
+#    artist = api.search_artist('Juvenile', max_songs=5)
 #    print(artist)
 #
 #    song = api.search_song('To You', artist.name)
