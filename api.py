@@ -1,6 +1,6 @@
 #  Usage:
 #    import genius
-#    api = genius.Genius('my_client_access_token_here')
+#    api = genius.Genius('QPBKB7CfINwBMHA1dlbQ6u8F15SJIWHlz3eL9z9ExKDpH1tRDRbr7HKLLVbNe4y_')
 #    artist = api.search_artist('Andy Shauf', max_songs=5)
 #    print(artist)
 #
